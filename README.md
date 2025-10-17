@@ -1,6 +1,6 @@
 # Проект по автоматизации тестовых сценариев для [Wikipedia](https://ru.wikipedia.org/)
 <p align="center">
-<img width="20%" title="Wikipedia" src="/media/screens/wikipedia.png" href="https://ru.wikipedia.org/">
+<a href="https://www.wikipedia.org/"><img width="20%" title="Wikipedia" src="/media/screens/wikipedia.png" href="https://ru.wikipedia.org/">
 </p>
 
 > Википедия — это многоязычная онлайн-энциклопедия свободного контента, которую может редактировать любой желающий, что делает ее универсальным сетевым хранилищем знаний.
